@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/waras-1447/static/css/main.26268ff7.css",
+    "main.js": "/waras-1447/static/js/main.768b683d.js",
+    "index.html": "/waras-1447/index.html",
+    "main.26268ff7.css.map": "/waras-1447/static/css/main.26268ff7.css.map",
+    "main.768b683d.js.map": "/waras-1447/static/js/main.768b683d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26268ff7.css",
+    "static/js/main.768b683d.js"
+  ]
+}
