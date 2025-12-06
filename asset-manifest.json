@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/waras-1447/static/css/main.322f875b.css",
-    "main.js": "/waras-1447/static/js/main.28409e04.js",
+    "main.js": "/waras-1447/static/js/main.a6219835.js",
     "index.html": "/waras-1447/index.html",
     "main.322f875b.css.map": "/waras-1447/static/css/main.322f875b.css.map",
-    "main.28409e04.js.map": "/waras-1447/static/js/main.28409e04.js.map"
+    "main.a6219835.js.map": "/waras-1447/static/js/main.a6219835.js.map"
   },
   "entrypoints": [
     "static/css/main.322f875b.css",
-    "static/js/main.28409e04.js"
+    "static/js/main.a6219835.js"
   ]
 }
