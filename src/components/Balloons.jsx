@@ -6,13 +6,14 @@ export default function Balloons() {
     { top: "30%", right: "5%" },
     { top: "20%", right: "5%" },
     { top: "10%", right: "29%" },
-    { top: "20%", right: "16%" },
-    { top: "80%", right: "20%" },
+    { top: "40%", right: "16%" },
+    { top: "50%", right: "7%" },
+    { top: "57%", right: "17%" },
+
     { top: "74%", right: "5%" },
     { top: "64%", right: "5%" },
-    { top: "80%", right: "29%" },
+    { top: "86%", right: "19%" },
     { top: "74%", right: "15%" },
-    { top: "64%", right: "18%" },
   ];
 
   return (
